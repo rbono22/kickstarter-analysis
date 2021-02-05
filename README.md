@@ -4,7 +4,7 @@
 Louise created a file to track her project campaign. The file contains thousands of crowdfunding projects. I will provide her key data insights, and visualize different trends.
 
 ### Explain the purpose of this analysis.
- I will analyze the kickstarter data to see if her kickstarter goals and pledged outcomes were met. I will check to see if there are trends due to the country, category, or date.
+ I will analyze the kickstarter data to see if her kickstarter outcomes are correlated with the launch date and to discover trends with the ouctomes based on goals.
  
 ## Analysis and Challenges
 
@@ -12,7 +12,7 @@ Louise created a file to track her project campaign. The file contains thousands
 ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![image_name](path/to/image_name.png)
+![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
